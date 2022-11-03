@@ -1,0 +1,16 @@
+C:\Users\XEON\source\repos\AstralRest\AstralRest\bin\Debug\AstralRest.exe.config
+C:\Users\XEON\source\repos\AstralRest\AstralRest\bin\Debug\AstralRest.exe
+C:\Users\XEON\source\repos\AstralRest\AstralRest\bin\Debug\AstralRest.pdb
+C:\Users\XEON\source\repos\AstralRest\AstralRest\bin\Debug\Guna.UI2.dll
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.csproj.AssemblyReference.cache
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.csproj.SuggestedBindingRedirects.cache
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.Properties.Resources.resources
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.csproj.GenerateResource.cache
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.csproj.CoreCompileInputs.cache
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.csproj.CopyComplete
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.exe
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.pdb
+C:\Users\XEON\source\repos\AstralRest\AstralRest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XEON\source\repos\AstralRest\AstralRest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.LookupCard.resources
+C:\Users\XEON\source\repos\AstralRest\AstralRest\obj\Debug\AstralRest.MainWindow.resources
